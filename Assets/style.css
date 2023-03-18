@@ -68,3 +68,16 @@ color: #ffffff;
     body{max-width: 412px;}
     *{max-width: 412px;}
 }
+
+@media screen and (max-height:1600px) {
+    #id ul,li{max-height:1600px;}
+    .artists img{max-height:1600px;}
+    .artistas ol,li{max-height:1600px;}
+    .line1{max-height:1600px;}
+    .title{max-height:1600px;}
+    .menu-items ol,li,a{max-height:1600px;}
+    .menu{max-height:1600px;}
+    header{max-height:1600px;}
+    body{max-height:1600px;}
+    *{max-height:1600px;}
+}
